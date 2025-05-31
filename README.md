@@ -46,15 +46,21 @@ npm start
 - Le bouton Del supprime le dernier caractère.
 - L’historique des calculs se trouve en bas et se conserve même après fermeture du navigateur.
 
+---
+
 ###  Technologies utilisées
 
 - React (hooks : useState, useEffect, useCallback)
 - CSS (animation et styles en ligne)
 - LocalStorage pour persistance de l’historique
 
+---
+
 #### Personnalisation
 
 Vous pouvez modifier les styles, ajouter des fonctionnalités supplémentaires (comme des fonctions trigonométriques, mémoire, etc.) en éditant le composant principal.
+
+---
 
 ##### Licence
 
